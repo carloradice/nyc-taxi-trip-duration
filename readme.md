@@ -1,5 +1,5 @@
 # Progetto AML
-## Previsione della durata delle corse dei taxi conapproccio basato su deep learning
+## Previsione della durata delle corse dei taxi con approccio basato su deep learning
 
 
 Pietro Colombo - 793679 - p.colombo45@campus.unimib.it
